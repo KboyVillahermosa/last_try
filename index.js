@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors'); // Import CORS middleware
 const app = express();
 const port = 3000;
 
@@ -32,6 +33,9 @@ const profile = {
     sex: 'Male'
   }
 };
+
+// Enable CORS for all routes
+app.use(cors());
 
 app.get('/', (req, res) => {
   res.json(profile);
