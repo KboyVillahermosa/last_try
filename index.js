@@ -18,11 +18,13 @@ const profile = {
   experience: [
     'Utilized version control with Git to manage and track changes to the project, enhancing collaboration and workflow efficiency.',
     'Demonstrated strong problem-solving skills to troubleshoot and resolve technical issues, ensuring seamless website functionality across different browsers and devices.',
-    'Collaborated with a team of developers to design and implement a responsive website for a university event, utilizing HTML, CSS, and JavaScript.'
+    'Collaborated with a team of developers to design and implement a responsive website for a university event, utilizing HTML, CSS, and JavaScript.',
+    'the fall of Jamal Murray'
   ],
   awards: [
     'Dean\'s List, USPF',
-    '3rd place in CCS Hackathon'
+    '3rd place in CCS Hackathon',
+    'Best in Turn over'
   ],
   personalInfo: {
     name: 'Francisco C Villahermosa',
